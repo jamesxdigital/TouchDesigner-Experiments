@@ -37,7 +37,7 @@ To run this project, you need the following:
 
 ## 2️⃣ 🔥 Texture Generation with Noise and Feedback
 
-This project demonstrates how to create a texture using noise and feedback in TouchDesigner. The generated texture is then used to create particles with instancing in a 3D space. The tutorial covers the process of manipulating the noise texture, adding feedback and processing techniques to enhance the visual output.
+This project demonstrates how to create a texture using noise and feedback in TouchDesigner. The generated texture is then used to create particles with instancing in a 3D space. Mmanipulating the noise texture, adding feedback and processing techniques to enhance the visual output.
 
 <details>
 
